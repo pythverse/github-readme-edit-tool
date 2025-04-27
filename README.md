@@ -10,5 +10,10 @@ Bạn sẽ soạn thảo file Readme của mình trên trình soạn thảo WY
 Ngoài ra còn hỗ trợ mở và edit file Readme có sẵn.
 Khi chạy sẽ có biểu tượng quả địa cầu 🌐 ở dưới thanh system tray, bạn có thể kích phải vào nó để chọn exit hoặc Open editor để mở tình duyệt web
 
+```Code
+pip install Flask pystray Pillow
+```
+<br>
+
 ![Demo](https://raw.githubusercontent.com/pythverse/github-readme-edit-tool/refs/heads/main/demo.png)
 
